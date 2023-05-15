@@ -15,7 +15,7 @@ This is a sample NestJS API project that provides functionality for managing tas
 + POST /auth/signin: Authenticates a user and returns an access token.
 
 ## How to Use
-Install the required dependencies by running npm install.
-Configure the database connection in the appropriate configuration file.
-Run the application using npm start.
-The API will be available at http://localhost:3000.
++ Install the required dependencies by running npm install.
++ Configure the database connection in the appropriate configuration file.
++ Run the application using npm start.
++ The API will be available at http://localhost:3000.
