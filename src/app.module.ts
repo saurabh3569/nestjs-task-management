@@ -9,7 +9,7 @@ import { ConfigService } from '@nestjs/config/dist';
 @Module({
   imports: [
     ConfigModule.forRoot({
-      envFilePath: [`.env.stage.dev`]
+      envFilePath: [`.env.dev`]
     }),
     TasksModule,
     TypeOrmModule.forRootAsync({
